@@ -1,0 +1,12 @@
+[submodule "live-telem-web"]
+	path = live-telem-web
+	url = git@github.com:SeanP/live-telem-web.git
+[submodule "live-telem-cdk"]
+	path = live-telem-cdk
+	url = git@github.com:SeanP/live-telem-cdk.git
+[submodule "live-telem-lambda"]
+	path = live-telem-lambda
+	url = git@github.com:SeanP/live-telem-lambda.git
+[submodule "live-telem-cs-client"]
+	path = live-telem-cs-client
+	url = git@github.com:SeanP/live-telem-cs-client.git
